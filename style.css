@@ -26,8 +26,8 @@ p {
 	width: 90%;
 	max-width: 800px;
 	/*background: #f3f3f3;*/
-	background-color: white;
-	background: url('http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture29_1200.jpg');
+	background-color: #FFFAFA;
+	/*background: url('http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture29_1200.jpg');*/
 	margin: 30px auto;
 	box-shadow: 4px 4px 2px black;
 }
@@ -35,8 +35,8 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid black;
-	background: black;
-	background: url('http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture29_1200.jpg');
+	background: #FFFAFA;
+	/*background: url('http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture29_1200.jpg');*/
 	color:black;
 }
 
