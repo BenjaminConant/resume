@@ -161,6 +161,39 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.year {
+	float:right;
+	font-size: 0.5em;
+	font-family: Arial, sans-serif;
+}
+
+.role {
+	font-size: 0.6em;  
+	font-family: Arial, sans-serif;
+}
+
+.description {
+	font-style: italic;
+	font-size: .8em;
+}
+
+.bullets {
+	margin-left: 2em;
+	margin-top: -1.2em;
+	margin-bottom:.3em;
+	font-size: .9em;
+}
+
+.school-description {
+  font-size: .9em
+}
+
+.contact-info {
+	margin: 0;
+	margin-bottom:.5em;
+	font-size: 0.8em;
+}
+
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
 		display: none;
